@@ -12,3 +12,5 @@ A lot of the time, yes, you should reach for the existing implementation, but be
 Rarely will you be able to come up with the complete answer, but sometimes it is about the journey and not the destination. Thinking through the consequences of whether to write it yourself or use a library/framework/service is a very useful exercise in helping see into the future of your technical needs.
 
 Writing software is a never-ending sequence of jumping and hoping you land on something soft. You never know what future needs will be but avoiding blanket rules like "not reinventing the wheel."  Don't be afraid to "waist time" by taking a walk to think about the various consequences of these decision. It will pay off.
+
+Happy coding.
