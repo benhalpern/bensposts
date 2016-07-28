@@ -7,7 +7,7 @@ main_image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ur_chariot.jpg"
 ---
 Don't reinvent the wheel — unless the wheel is written in PHP, opinionated in ways you'll always be fighting against and not a wheel, but a steaming pile of hot code. This site is not a Wordpress site and I am so happy I "reinvented the wheel." I chose a stack — Rails — that I enjoy working with and gave me just the right balance between constraint and freedom for the project. Rails is not "better" than Wordpress. They are apples and oranges, but laying the concrete myself has given me the ability to truly make the thing I want to make.
 
-I think that a lot of the time, yes, you should reach for the existing implementation, but before you ever do that, you should go through the exercise of thinking about the consequences and reaching some sort of justification one way or the other, even if you have incomplete information, and you will have incomplete information.
+A lot of the time, yes, you should reach for the existing implementation, but before you ever do that, you should go through the exercise of thinking about the consequences and reaching some sort of justification one way or the other, even if you have incomplete information, and you will have incomplete information.
 
 Rarely will you be able to come up with the complete answer, but sometimes it is about the journey and not the destination. Thinking through the consequences of whether to write it yourself or use a library/framework/service is a very useful exercise in helping see into the future of your technical needs.
 
